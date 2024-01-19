@@ -1,5 +1,6 @@
 // ScoutingPASS.js
 //
+`"enable_google_sheets": "true",`
 // The guts of the ScountingPASS application
 // Written by Team 2451 - PWNAGE
 
