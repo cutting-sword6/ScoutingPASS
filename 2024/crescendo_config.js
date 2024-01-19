@@ -17,7 +17,7 @@ var config_data = `
       "gsCol": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2024cala",
+      "defaultValue": "2020ilch",
       "required": "true"
     },
     { "name": "Match Level",
@@ -210,4 +210,4 @@ var config_data = `
       "maxSize": 55
     }
   ]
-}`;
+}`
