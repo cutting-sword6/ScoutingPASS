@@ -1,5 +1,8 @@
 var config_data = `
 {
+"enable_google_sheets": "true",
+"title": "Scouting PASS 2024",
+"page_title": "Crescendo",
   "dataFormat": "tsv",
   "title": "Scouting PASS 2024",
   "page_title": "Crescendo",
